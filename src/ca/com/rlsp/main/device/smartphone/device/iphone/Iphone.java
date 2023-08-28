@@ -1,4 +1,4 @@
-package ca.com.rlsp.main.device.smartphone.iphone;
+package ca.com.rlsp.main.device.smartphone.device.iphone;
 
 
 import ca.com.rlsp.main.device.smartphone.SmartPhone;

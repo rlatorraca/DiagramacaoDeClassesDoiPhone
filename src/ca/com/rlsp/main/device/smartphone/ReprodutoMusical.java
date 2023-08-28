@@ -1,4 +1,4 @@
-package ca.com.rlsp.main.Device.iphone;
+package ca.com.rlsp.main.device.smartphone;
 
 public interface ReprodutoMusical {
 

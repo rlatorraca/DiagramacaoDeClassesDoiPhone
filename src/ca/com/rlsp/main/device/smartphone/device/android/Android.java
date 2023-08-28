@@ -1,4 +1,4 @@
-package ca.com.rlsp.main.device.smartphone.iphone;
+package ca.com.rlsp.main.device.smartphone.device.android;
 
 
 import ca.com.rlsp.main.device.smartphone.SmartPhone;
@@ -10,4 +10,5 @@ public class Android extends SmartPhone {
     public Android(String ownerName) {
         super(DEVICE, ownerName);
     }
+
 }
